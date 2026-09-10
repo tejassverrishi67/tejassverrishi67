@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Tejassver Rishi 👋🎓 B.E. Computer Science & Engineering Student<br>🤖 AI & Emerging Technologies Enthusiast<br>💻 Full-Stack & AI-Assisted Developer<br>🚀 Hackathon Builder | UI/UX Enthusiast | Problem Solver<br><br>What I'm Currently Learning<br><br>🤖 Generative AI & AI-powered applications<br>🛠️ AI-assisted software development<br>💻 Full-Stack Web Development<br>🧩 Data Structures & Algorithms<br>🎨 UI/UX & Product Design<br>☁️ Cloud, APIs & Backend Development
+Hi, I'm Tejassver Rishi 👋<br>🎓 B.E. Computer Science & Engineering Student<br>🤖 AI & Emerging Technologies Enthusiast<br>💻 Full-Stack & AI-Assisted Developer<br>🚀 Hackathon Builder | UI/UX Enthusiast | Problem Solver<br><br>What I'm Currently Learning<br><br>🤖 Generative AI & AI-powered applications<br>🛠️ AI-assisted software development<br>💻 Full-Stack Web Development<br>🧩 Data Structures & Algorithms<br>🎨 UI/UX & Product Design<br>☁️ Cloud, APIs & Backend Development
 
 
 ## 🌐 Socials:
